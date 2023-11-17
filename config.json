@@ -1,3 +1,4 @@
 {
-    "root_dir" : "Ecoscope-Outputs/EarthRanger"
+    "root_dir" : "Ecoscope-Outputs/EarthRanger",
+    "app_name": "coding"
 }
